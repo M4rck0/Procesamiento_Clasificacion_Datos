@@ -98,6 +98,8 @@ BBVA ocupa el primer lugar dentro de los bancos G7 por dinero a la vista.
 | 6 | HSBC | $0.3 M |
 | 7 | Scotiabank | $0.3 M |
 
+<img width="675" height="467" alt="Captura de Pantalla 2026-08-03 a la(s) 20 56 20" src="https://github.com/user-attachments/assets/d751246b-7f60-47fe-a346-b09f8780d66e" />
+
 ### Observaciones
 
 **Liderazgo claro**
@@ -131,6 +133,8 @@ Proteger los saldos y la vinculación de clientes mediante acciones de:
 | Inbursa | -0.52% |
 | Banamex | -31.91% |
 
+<img width="673" height="468" alt="Captura de Pantalla 2026-08-03 a la(s) 20 56 28" src="https://github.com/user-attachments/assets/fa669e43-2215-46ff-ad6a-685061941908" />
+
 ### Interpretación
 
 - **BBVA:** crecimiento esperado de **26.12%**, manteniéndose en el primer lugar.
@@ -151,6 +155,8 @@ BBVA aumentaría su peso relativo dentro del grupo.
 | Participación actual | **34.66%** |
 | Participación proyectada | **38.67%** |
 | Cambio esperado | **+4.01 puntos porcentuales** |
+
+<img width="876" height="337" alt="Captura de Pantalla 2026-08-03 a la(s) 20 56 49" src="https://github.com/user-attachments/assets/f10c9b18-7266-43f5-90f9-e61de9af7b8a" />
 
 ### Lectura
 
@@ -236,7 +242,3 @@ La combinación de historia, ranking, participación y pronóstico convierte al 
 - Monitoreo del mercado
 
 ---
-
-## Nota metodológica
-
-Los resultados corresponden a un escenario estadístico central. No representan una garantía de comportamiento futuro y deben interpretarse junto con información económica, comercial y estratégica.
