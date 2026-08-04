@@ -48,7 +48,7 @@ Construcción de series mensuales por banco
         ↓
 Ajuste de modelos SARIMA
         ↓
-Pronóstico a 36 meses
+Pronóstico a 3 años
         ↓
 Cálculo de ranking y participación
         ↓
@@ -78,7 +78,7 @@ Generación de indicadores ejecutivos
 | Ranking proyectado | **1 de 7** |
 | Participación actual | **34.66%** |
 | Participación proyectada | **38.67%** |
-| Horizonte | **36 meses** |
+| Horizonte | **3 años** |
 
 > **Mensaje clave:** BBVA mantiene el liderazgo actual, presenta crecimiento esperado y aumentaría su participación dentro del G7.
 
