@@ -2,8 +2,6 @@
 
 **Comportamiento histórico, posición competitiva G7 y pronóstico a 3 años**
 
-**Autor:** Marco Rivera
-
 > Esta presentación resume el comportamiento histórico del dinero a la vista de BBVA, su posición frente a los bancos G7 y la proyección estimada para los próximos tres años.
 
 ---
