@@ -67,7 +67,7 @@ Generación de indicadores ejecutivos
 
 ---
 
-## 3. Resumen ejecutivo de BBVA
+## 3. Resumen de BBVA
 
 | Indicador | Resultado |
 |---|---:|
@@ -98,7 +98,7 @@ BBVA ocupa el primer lugar dentro de los bancos G7 por dinero a la vista.
 | 6 | HSBC | $0.3 M |
 | 7 | Scotiabank | $0.3 M |
 
-### Lectura ejecutiva
+### Observaciones
 
 **Liderazgo claro**
 
@@ -167,6 +167,8 @@ El dashboard permite aislar la información de BBVA para analizar:
 - Intervalo de confianza
 - Tendencia de largo plazo
 - Evolución mensual
+
+<img width="1211" height="550" alt="Captura de Pantalla 2026-08-03 a la(s) 20 53 15" src="https://github.com/user-attachments/assets/0601f33a-1ab1-4413-810d-47e6f221d27f" />
 
 ### Implicación
 
