@@ -8,13 +8,6 @@
 
 ---
 
-## Archivos de la presentación
-
-- [Ver presentación en PDF](Presentacion.pdf)
-- [Descargar presentación en PowerPoint](Presentacion.pptx)
-
----
-
 ## 1. Objetivo
 
 Responder tres preguntas principales:
